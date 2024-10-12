@@ -4,10 +4,10 @@
   
  - ## I am Data Analyst/Business Intellegence Analyst
 
- Call me a data love as i love to clean a data and business love
+ Call me a data love as i love to clean.transform,modeland analyze data for business insight. 
  -  I'm currently learning  and working on severai projects to challange my self on going to Data Analyst
- -  I'm looking to collaborate with Companies,organizations or even individuals to solve their businessproblems by leveraging daa.
- -  With my love for building solutions to help business,I began an adventure into the power platform.I work wih PowerApp, Power Automate, andPower Virtual Agents toautomate business process.
+ -  I'm looking to collaborate with Companies,organizations or even individuals to solve their business problems by leveraging data.
+ -  With my love for building solutions to help business,I began an adventure into the power platform.I work wih PowerApp, Power Automate, and Power Virtual Agents to automate business process.
  -  I am open forData Analst Role as I am currently searching for a Data Analyst role.
  -  How to reach me:
  -  Pronouns: He
