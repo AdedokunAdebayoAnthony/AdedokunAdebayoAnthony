@@ -11,7 +11,7 @@
  -  I am open for Data Analyst Role as I am currently searching for a Data Analyst role.
  -  How to reach me:
  -  Pronouns: He
- -  Fun fact:I love to speak publicly and guide youths into pursuing a career in tech.
+ -  Fun fact: I love to speak publicly and guide youths into pursuing a career in tech.
 
 - ### Arsenal
 
@@ -21,9 +21,5 @@
 - ### Tableau
 - ### R
 - ### SPSS(Statistical Package for Social Science)
-- ### Python
+- ### Pythone
 
-<!---
-AdedokunAdebayoAnthony/AdedokunAdebayoAnthony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
