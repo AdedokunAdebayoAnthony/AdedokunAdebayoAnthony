@@ -4,7 +4,7 @@
   
  - ## I am Data Analyst/Business Intellegence Analyst
 
- Call me a data lord as i love to clean.transform,model and analyze data for business insight. 
+ Call me a data lord as i love to clean,transform,model and analyze data for business insight. 
  -  I'm currently learning  and working on several projects to challange my self on going to Data Analyst
  -  I'm looking to collaborate with Companies,organizations or even individuals to solve their business problems by leveraging data.
  -  With my love for building solutions to help business,I began an adventure into the power platform.I work wih PowerApp, Power Automate, and Power Virtual Agents to automate business process.
