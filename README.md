@@ -21,5 +21,5 @@
 - ### Tableau
 - ### R
 - ### SPSS(Statistical Package for Social Science)
-- ### Pythone
+- ### Python
 
